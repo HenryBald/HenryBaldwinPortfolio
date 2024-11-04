@@ -12,3 +12,5 @@ Drawing application that functions similarly to an Etch-A-Sketch, includes image
 ![Running App] ()
 [Source Code]()
 ## Term 2
+### Calculator 
+Object oriented graphical calculator with custom buttons and UI.

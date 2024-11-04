@@ -14,6 +14,6 @@ Drawing application that functions similarly to an Etch-A-Sketch, includes image
 ## Term 2
 ### Calculator 
 Object oriented graphical calculator with custom buttons and UI.
-! [Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/Screenshot%202024-11-04%20at%2012.01.42%20PM.png)
+! [Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/calc1.png?raw=true)
 
 [Source Code]()

@@ -9,8 +9,8 @@
 ## Term 1
 ### Etch-A-Sketch
 Drawing application that functions similarly to an Etch-A-Sketch, includes image-saving functionality.
-![Running App]()
-[Source Code]()
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/EAS.png?raw=true)
+[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/EtchASketch)
 ## Term 2
 ### Calculator 
 Object oriented graphical calculator with custom buttons and UI.

@@ -4,7 +4,11 @@
 * Aiming to go to NYU for college
 * Passionate about school and the arts
 * Typing at 75-80 WPM
-* Has baseline Photoshop experience
+* Baseline Photoshop experience
+* Music production experience
 ## Term 1
-
+### Etch-A-Sketch
+Drawing application that functions similarly to an Etch-A-Sketch, includes image-saving functionality.
+![Running App] ()
+[Source Code]()
 ## Term 2

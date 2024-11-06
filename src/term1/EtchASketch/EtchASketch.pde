@@ -1,4 +1,4 @@
-// Mr Kapptie | Etch A Sketch | 18 Sept 2024
+// Henry Baldwin | Etch A Sketch | 18 Sept 2024
 int x, y;
 PImage e1;
 

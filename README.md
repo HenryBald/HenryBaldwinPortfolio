@@ -20,6 +20,6 @@ Object oriented graphical calculator with custom buttons and UI.
 
 Space Game with pwer ups, leveling system, and three different types of rocks
 
-![Running App]()
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/SpaceGame)

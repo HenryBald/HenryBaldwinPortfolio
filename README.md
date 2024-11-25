@@ -18,7 +18,7 @@ Object oriented graphical calculator with custom buttons and UI.
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/Calculator)
 
-Space Game with pwer ups, leveling system, and three different types of rocks
+Space Game with power ups, leveling system, and three different types of rocks.
 
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png)
 

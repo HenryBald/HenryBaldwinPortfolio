@@ -11,12 +11,14 @@
 
 ### Etch-A-Sketch
 Drawing application that functions similarly to an Etch-A-Sketch, includes image-saving functionality
+
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/EAS.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/EtchASketch)
 
 ### In Rainbows Game
 Game with score system and progression
+
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ShapeGame.png?rarw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/ShapeGame)
@@ -25,12 +27,14 @@ Game with score system and progression
 
 ### Calculator 
 Object oriented graphical calculator with custom buttons and UI
+
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/calc1.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/Calculator)
 
 ### Space Game
 Power ups, leveling system, and three different types of rocks
+
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/SpaceGame)

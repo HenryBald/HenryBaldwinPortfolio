@@ -10,6 +10,8 @@
 * Music production experience
 
 [Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationGameDev.pdf?raw=true)
+[Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationComputerProg.pdf?raw=true)
+
   
 ## Term 1
 

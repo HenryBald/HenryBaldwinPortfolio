@@ -42,3 +42,11 @@ Power ups, leveling system, and three different types of rocks
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/SpaceGame)
+
+### The Arkan Project - Processing Demo
+Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, and myself
+#### I composed music using BandLab and wrote the majority of the actual code for the demo itself. I also created a few of the sprites using Photoshop.
+
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ArkanDemoRunning.png?raw=true)
+
+[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/TheArkanProject)

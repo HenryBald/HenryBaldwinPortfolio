@@ -45,7 +45,7 @@ Power ups, leveling system, and three different types of rocks
 
 ### The Arkan Project - Processing Demo
 Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, and myself
-#### I composed music using BandLab and wrote the majority of the actual code for the demo itself. I also created a few of the sprites using Photoshop.
+#### I composed music using BandLab and wrote the majority of the actual code for the demo itself. I also created a few of the sprites using Photoshop, along with the start screen and end screen.
 
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ArkanDemoRunning.png?raw=true)
 

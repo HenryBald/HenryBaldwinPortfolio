@@ -8,6 +8,8 @@
 * Typing at 75-80 WPM
 * Baseline Photoshop experience
 * Music production experience
+
+![Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationGameDev.pdf?raw=true)
   
 ## Term 1
 
@@ -21,7 +23,7 @@ Drawing application that functions similarly to an Etch-A-Sketch, includes image
 ### In Rainbows Game
 Game with score system and progression
 
-![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ShapeGame.png?rarw=true)
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ShapeGame.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/ShapeGame)
 
@@ -37,6 +39,6 @@ Object oriented graphical calculator with custom buttons and UI
 ### Space Game
 Power ups, leveling system, and three different types of rocks
 
-![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png)
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/SpaceGame.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/SpaceGame)

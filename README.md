@@ -18,14 +18,21 @@ Drawing application that functions similarly to an Etch-A-Sketch, includes image
 
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/EAS.png?raw=true)
 
-[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/EtchASketch)
+[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/Grading_Rubric_Assignment)
 
 ### In Rainbows Game
 Game with score system and progression
 
-![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ShapeGame.png?raw=true)
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/GradingRubric.png?raw=true)
 
 [Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/ShapeGame)
+
+### Grading Rubric Calculator
+Application that converts number grades to letter grades based on a line that you hover your mouse over
+
+![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/EAS.png?raw=true)
+
+[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term1/EtchASketch)
 
 ## Term 2
 

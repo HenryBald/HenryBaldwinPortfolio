@@ -9,7 +9,7 @@
 * Baseline Photoshop experience
 * Music production experience
 
-![Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationGameDev.pdf?raw=true)
+![Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationGameDev.pdf)
   
 ## Term 1
 

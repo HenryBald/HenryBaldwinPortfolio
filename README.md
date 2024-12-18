@@ -59,4 +59,5 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 ![Running App](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/ArkanDemoRunning.png?raw=true)
 
-[Source Code](https://github.com/HenryBald/comprog1a3portfolio/tree/main/src/term2/TheArkanProject)
+[The Arkan Project GitHub Repository](https://github.com/Error4984/The-Arkan-Project)
+

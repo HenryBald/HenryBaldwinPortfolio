@@ -1,6 +1,6 @@
 # Henry Baldwin's Computer Programming Portfolio 2024-25
-## Personal email: [Email Someone](mailto:henryjamesbaldwin@gmail.com)
-## School email: 415231@graniteschools.org
+## [Personal Email](mailto:henryjamesbaldwin@gmail.com)
+## [School Email](mailto:415231@graniteschools.org)
 * First year Computer Programming student, class of 2028
 * Interested in eventually developing games and websites
 * Aiming to go to NYU for college

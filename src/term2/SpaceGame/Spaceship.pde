@@ -14,7 +14,7 @@ class Spaceship {
     p1 = loadImage("Spaceship.png");
   }
 
-  //Member Metthods
+  //Member Methods
 
   void display() {
     imageMode(CENTER);

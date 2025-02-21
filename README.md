@@ -61,3 +61,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [The Arkan Project GitHub Repository](https://github.com/Error4984/The-Arkan-Project)
 
+## Term 3
+
+## Term 4
+
+

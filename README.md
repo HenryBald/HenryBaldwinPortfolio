@@ -61,6 +61,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [The Arkan Project GitHub Repository](https://github.com/Error4984/The-Arkan-Project)
 
+[Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav?raw=true)
+
 ## Term 3
 
 ### The Arkan Project - Unity Demo

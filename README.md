@@ -72,6 +72,10 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [The Arkan Project Github Repository Version 2](https://github.com/Masterpaul562/The-Arkan-Project)
 
+[Arkan Battle](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Arkan_Battle.wav)
+
+
+
 ## Term 4
 
 

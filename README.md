@@ -66,7 +66,7 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 ### The Arkan Project 
 ![App Logo Designed by Me](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/images/HenryArkanProjectLogo.psd?raw=true)
 
-[The Arkan Project Github Repositor Version 2](https://github.com/Masterpaul562/The-Arkan-Project)
+[The Arkan Project Github Repository Version 2](https://github.com/Masterpaul562/The-Arkan-Project)
 
 ## Term 4
 

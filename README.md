@@ -63,6 +63,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav)
 
+[Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav)
+
 ## Term 3
 
 ### The Arkan Project - Unity Demo

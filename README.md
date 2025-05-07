@@ -61,6 +61,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [The Arkan Project GitHub Repository](https://github.com/Error4984/The-Arkan-Project)
 
+#### Music I made during this point in development
+
 [Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav)
 
 [Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav)
@@ -73,6 +75,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 [The Arkan Project Github Repository Version 2](https://github.com/Masterpaul562/The-Arkan-Project)
 
 [Arkan Battle](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Arkan_Battle.wav)
+
+#### Music I made during this point in development
 
 [Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan__Found.wav)
 

@@ -63,9 +63,9 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 #### Music I made during this point in development
 
-[Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav)
+[Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav?raw=true)
 
-[Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav)
+[Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav?raw=true)
 
 ## Term 3
 
@@ -76,15 +76,15 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 #### Music I made during this point in development
 
-[Arkan Battle](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan_Battle.wav)
+[Arkan Battle](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan_Battle.wav?raw=true)
 
-[Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan__Found.wav)
+[Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan__Found.wav?raw=true)
 
-[Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav)
+[Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav?raw=true)
 
-[Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav)
+[Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav?raw=true)
 
-[Heavy Boss Music](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Heavy_BossShortVersion.wav)
+[Heavy Boss Music](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Heavy_BossShortVersion.wav?raw=true)
 
 ## Term 4
 

@@ -84,6 +84,8 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav)
 
+[Heavy Boss Music](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Heavy_BossShortVersion.wav)
+
 ## Term 4
 
 

@@ -76,7 +76,7 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 #### Music I made during this point in development
 
-[Arkan Battle](https://github.com/Error4984/The-Arkan-Project-2/blob/main/Assets/Audio/Music/Arkan_Battle.wav)
+[Arkan Battle](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan_Battle.wav)
 
 [Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan__Found.wav)
 

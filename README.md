@@ -80,7 +80,7 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 [Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan__Found.wav)
 
-[Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav
+[Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav)
 
 [Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav)
 

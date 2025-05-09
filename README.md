@@ -63,9 +63,13 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 #### Music I made during this point in development
 
-[Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav?raw=true)
+##### [Arkan Start](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/ArkanStart.wav?raw=true)
 
-[Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav?raw=true)
+This song is intended to be played during the start screen for our game
+
+##### [Arkan Main Theme](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/HenryArkan.wav?raw=true)
+
+This song outlines a general melody that other tracks should follow- it would be used during cut scenes and credits and would outline other songs such as the final boss music 
 
 ## Term 3
 
@@ -76,15 +80,21 @@ Processing demo for project made by Eli Wright, James Sturm, Owen Thibodeaux, an
 
 #### Music I made during this point in development
 
-[Arkan Battle](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Arkan_Battle.wav?raw=true)
+##### [Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Found.wav?raw=true)
 
-[Found](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Found.wav?raw=true)
+This is an ambient track that would play at random during gameplay
 
-[Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav?raw=true)
+##### [Isolation](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Isolation.wav?raw=true)
 
-[Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav?raw=true)
+This is an ambient track that would play at random during gameplay
 
-[Heavy Boss Music](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Heavy_BossShortVersion.wav?raw=true)
+##### [Olympic Parafencing](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/OlympicParafencing.wav?raw=true)
+
+This song is intended to be used in a shop or while navigating some sort of UI
+
+##### [Heavy Boss Music](https://github.com/HenryBald/HenryComputerProgrammingPortfolio/blob/main/audio/Heavy_BossShortVersion.wav?raw=true)
+
+This music is intended to be played during a boss fight wherein the boss is slower, heavier, tankier, and very strong
 
 ## Term 4
 

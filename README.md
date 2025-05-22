@@ -13,8 +13,7 @@
 
 [Computer Programming 1 Certification](https://github.com/HenryBald/comprog1a3portfolio/blob/main/images/HenryCertificationComputerProg.pdf?raw=true)
 
-[Computer Programming 2 Java Certification]
-(https://github.com/HenryBald/HenryBaldwinPortfolio/blob/main/images/HenryCertificationJava.pdf?raw=true)
+[Computer Programming 2 Java Certification](https://github.com/HenryBald/HenryBaldwinPortfolio/blob/main/images/HenryCertificationJava.pdf?raw=true)
 
   
 ## Term 1
